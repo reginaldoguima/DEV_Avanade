@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Reginaldo Guimar&#227;es"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-11-29 07:43:16 "/>
+        <attribute name="created" value="UmVnaW5hbGRvIEd1aW1hcsOjZXM7UkVHSU5BTERPLURFTEw7MjAyMC0xMS0yOTsiMDc6MzY6MzEgIjs0MTky"/>
+        <attribute name="edited" value="UmVnaW5hbGRvIEd1aW1hcsOjZXM7UkVHSU5BTERPLURFTEw7MjAyMC0xMS0yOTsiMDc6NDM6MTYgIjsxOzQzMDE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nome, sobrenome" type="String" array="False" size=""/>
+            <output expression="&quot;Qual o seu nome?&quot;" newline="True"/>
+            <input variable="nome"/>
+            <output expression="&quot;Qual o seu sobrenome?&quot;" newline="True"/>
+            <input variable="sobrenome"/>
+            <output expression="&quot;O seu nome completo &#233; &quot; &amp; nome &amp; &quot; &quot; &amp; sobrenome" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

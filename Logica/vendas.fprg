@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Reginaldo Guimar&#227;es"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-11-29 07:44:41 "/>
+        <attribute name="created" value="UmVnaW5hbGRvIEd1aW1hcsOjZXM7UkVHSU5BTERPLURFTEw7MjAyMC0xMS0yOTsiMDc6MjI6MDUgIjs0MTg4"/>
+        <attribute name="edited" value="UmVnaW5hbGRvIEd1aW1hcsOjZXM7UkVHSU5BTERPLURFTEw7MjAyMC0xMS0yOTsiMDc6NDQ6NDEgIjsyOzQzMDE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="jan, fev, mar, abr, media, abono" type="Real" array="False" size=""/>
+            <input variable="jan"/>
+            <input variable="fev"/>
+            <input variable="mar"/>
+            <input variable="abr"/>
+            <assign variable="media" expression="(jan+fev+mar+abr)/4"/>
+            <if expression="media&gt;=5000">
+                <then>
+                    <output expression="&quot;voc&#234; receber&#225; um abono de 20% eo valor &#233; &quot; &amp; media * 0.2" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Voce receber&#225; apenas 3% de abono e o valor &#233; &quot; &amp; media * 0.03" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

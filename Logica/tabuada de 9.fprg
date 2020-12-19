@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Reginaldo Guimar&#227;es"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-11-29 09:53:12 "/>
+        <attribute name="created" value="UmVnaW5hbGRvIEd1aW1hcsOjZXM7UkVHSU5BTERPLURFTEw7MjAyMC0xMS0yOTsiMDk6Mzk6MTMgIjs0MTk3"/>
+        <attribute name="edited" value="UmVnaW5hbGRvIEd1aW1hcsOjZXM7UkVHSU5BTERPLURFTEw7MjAyMC0xMS0yOTsiMDk6NTM6MTIgIjsxOzQzMDA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="numero, limite" type="Integer" array="False" size=""/>
+            <assign variable="numero" expression="0"/>
+            <assign variable="limite" expression="10"/>
+            <while expression="numero&lt;=limite">
+                <output expression="&quot;Tabuada de 9: 9 x &quot; &amp; numero &amp;&quot;= &quot; &amp; 9*numero" newline="True"/>
+                <assign variable="numero" expression="numero+1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

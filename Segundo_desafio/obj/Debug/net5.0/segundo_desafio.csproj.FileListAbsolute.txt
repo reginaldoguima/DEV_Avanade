@@ -1,0 +1,16 @@
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\segundo_desafio\obj\Debug\net5.0\segundo_desafio.csprojAssemblyReference.cache
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\segundo_desafio\obj\Debug\net5.0\segundo_desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\segundo_desafio\obj\Debug\net5.0\segundo_desafio.AssemblyInfoInputs.cache
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\segundo_desafio\obj\Debug\net5.0\segundo_desafio.AssemblyInfo.cs
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\segundo_desafio\obj\Debug\net5.0\segundo_desafio.csproj.CoreCompileInputs.cache
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\segundo_desafio\bin\Debug\net5.0\segundo_desafio.exe
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\segundo_desafio\bin\Debug\net5.0\segundo_desafio.deps.json
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\segundo_desafio\bin\Debug\net5.0\segundo_desafio.runtimeconfig.json
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\segundo_desafio\bin\Debug\net5.0\segundo_desafio.runtimeconfig.dev.json
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\segundo_desafio\bin\Debug\net5.0\segundo_desafio.dll
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\segundo_desafio\bin\Debug\net5.0\ref\segundo_desafio.dll
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\segundo_desafio\bin\Debug\net5.0\segundo_desafio.pdb
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\segundo_desafio\obj\Debug\net5.0\segundo_desafio.dll
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\segundo_desafio\obj\Debug\net5.0\ref\segundo_desafio.dll
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\segundo_desafio\obj\Debug\net5.0\segundo_desafio.pdb
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\segundo_desafio\obj\Debug\net5.0\segundo_desafio.genruntimeconfig.cache

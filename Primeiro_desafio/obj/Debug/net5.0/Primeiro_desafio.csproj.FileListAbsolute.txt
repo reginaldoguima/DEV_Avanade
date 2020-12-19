@@ -1,0 +1,16 @@
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Primeiro_desafio\bin\Debug\net5.0\Primeiro_desafio.exe
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Primeiro_desafio\bin\Debug\net5.0\Primeiro_desafio.deps.json
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Primeiro_desafio\bin\Debug\net5.0\Primeiro_desafio.runtimeconfig.json
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Primeiro_desafio\bin\Debug\net5.0\Primeiro_desafio.runtimeconfig.dev.json
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Primeiro_desafio\bin\Debug\net5.0\Primeiro_desafio.dll
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Primeiro_desafio\bin\Debug\net5.0\ref\Primeiro_desafio.dll
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Primeiro_desafio\bin\Debug\net5.0\Primeiro_desafio.pdb
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Primeiro_desafio\obj\Debug\net5.0\Primeiro_desafio.csprojAssemblyReference.cache
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Primeiro_desafio\obj\Debug\net5.0\Primeiro_desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Primeiro_desafio\obj\Debug\net5.0\Primeiro_desafio.AssemblyInfoInputs.cache
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Primeiro_desafio\obj\Debug\net5.0\Primeiro_desafio.AssemblyInfo.cs
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Primeiro_desafio\obj\Debug\net5.0\Primeiro_desafio.csproj.CoreCompileInputs.cache
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Primeiro_desafio\obj\Debug\net5.0\Primeiro_desafio.dll
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Primeiro_desafio\obj\Debug\net5.0\ref\Primeiro_desafio.dll
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Primeiro_desafio\obj\Debug\net5.0\Primeiro_desafio.pdb
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Primeiro_desafio\obj\Debug\net5.0\Primeiro_desafio.genruntimeconfig.cache
