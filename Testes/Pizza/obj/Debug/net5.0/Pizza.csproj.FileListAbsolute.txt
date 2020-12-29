@@ -1,0 +1,16 @@
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Testes\Pizza\bin\Debug\net5.0\Pizza.exe
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Testes\Pizza\bin\Debug\net5.0\Pizza.deps.json
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Testes\Pizza\bin\Debug\net5.0\Pizza.runtimeconfig.json
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Testes\Pizza\bin\Debug\net5.0\Pizza.runtimeconfig.dev.json
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Testes\Pizza\bin\Debug\net5.0\Pizza.dll
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Testes\Pizza\bin\Debug\net5.0\ref\Pizza.dll
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Testes\Pizza\bin\Debug\net5.0\Pizza.pdb
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Testes\Pizza\obj\Debug\net5.0\Pizza.csprojAssemblyReference.cache
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Testes\Pizza\obj\Debug\net5.0\Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Testes\Pizza\obj\Debug\net5.0\Pizza.AssemblyInfoInputs.cache
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Testes\Pizza\obj\Debug\net5.0\Pizza.AssemblyInfo.cs
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Testes\Pizza\obj\Debug\net5.0\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Testes\Pizza\obj\Debug\net5.0\Pizza.dll
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Testes\Pizza\obj\Debug\net5.0\ref\Pizza.dll
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Testes\Pizza\obj\Debug\net5.0\Pizza.pdb
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Testes\Pizza\obj\Debug\net5.0\Pizza.genruntimeconfig.cache

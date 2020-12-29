@@ -1,0 +1,4 @@
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Calculadora_DDD\Desafios\obj\Debug\netcoreapp3.1\Desafios.csprojAssemblyReference.cache
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Calculadora_DDD\Desafios\obj\Debug\netcoreapp3.1\Desafios.AssemblyInfoInputs.cache
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Calculadora_DDD\Desafios\obj\Debug\netcoreapp3.1\Desafios.AssemblyInfo.cs
+C:\Users\Reginaldo Guimarães\Documents\DEV_Avanade\Calculadora_DDD\Desafios\obj\Debug\netcoreapp3.1\Desafios.csproj.CoreCompileInputs.cache
