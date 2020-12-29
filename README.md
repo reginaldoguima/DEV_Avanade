@@ -2,6 +2,7 @@
 Repositorio com tudo que foi produzido por mim durante o Bootcamp Decola DEV da AVANADE
 
 ## Lista de Pastas
+- Calculadora_DDD: Projeto para entrega da etapa da palestra sobre DDD
 - Certificados: Todos os certificados que conquistei no Bootcamp
 - CursoMVC: Códigos do módulo de MVC
 - Javascript: Tudo que produzi sobre a linguagem
